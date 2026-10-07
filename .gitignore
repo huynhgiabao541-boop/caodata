@@ -1,0 +1,23 @@
+# Thư mục môi trường ảo
+venv/
+env/
+
+# Thư mục cache của Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Các file dữ liệu cào về (Excel, JSON)
+*.xlsx
+*.json
+*.csv
+
+# Thư mục chứa file tải về (PDF, DOCX...)
+thuocBVTV_pdfs/
+*.pdf
+*.docx
+
+# Cấu hình IDE (nếu có dùng VSCode hoặc PyCharm)
+.vscode/
+.idea/
+.env
